@@ -5,7 +5,7 @@
 
 1. Clone the repo
    ```sh
-   https://github.com/sabreenahmed21/Tailwind.git
+   https://github.com/sabreenahmed21/HooBank.git
    ```
 2. install:
    ```sh
